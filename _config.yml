@@ -1,3 +1,4 @@
 
-
-paginate: 4
+plugins: [jekyll-paginate]
+paginate: 3
+paginate_path: "/project/page:num/"
